@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Assma/index.html/static/css/main.dc4220a0.chunk.css",
+    "main.js": "/Portfolio_Assma/index.html/static/js/main.bf1fee60.chunk.js",
+    "main.js.map": "/Portfolio_Assma/index.html/static/js/main.bf1fee60.chunk.js.map",
+    "runtime-main.js": "/Portfolio_Assma/index.html/static/js/runtime-main.9c5ccf7c.js",
+    "runtime-main.js.map": "/Portfolio_Assma/index.html/static/js/runtime-main.9c5ccf7c.js.map",
+    "static/css/2.cda3c33c.chunk.css": "/Portfolio_Assma/index.html/static/css/2.cda3c33c.chunk.css",
+    "static/js/2.6f0fc72f.chunk.js": "/Portfolio_Assma/index.html/static/js/2.6f0fc72f.chunk.js",
+    "static/js/2.6f0fc72f.chunk.js.map": "/Portfolio_Assma/index.html/static/js/2.6f0fc72f.chunk.js.map",
+    "static/js/3.34132e0d.chunk.js": "/Portfolio_Assma/index.html/static/js/3.34132e0d.chunk.js",
+    "static/js/3.34132e0d.chunk.js.map": "/Portfolio_Assma/index.html/static/js/3.34132e0d.chunk.js.map",
+    "index.html": "/Portfolio_Assma/index.html/index.html",
+    "static/css/2.cda3c33c.chunk.css.map": "/Portfolio_Assma/index.html/static/css/2.cda3c33c.chunk.css.map",
+    "static/css/main.dc4220a0.chunk.css.map": "/Portfolio_Assma/index.html/static/css/main.dc4220a0.chunk.css.map",
+    "static/js/2.6f0fc72f.chunk.js.LICENSE.txt": "/Portfolio_Assma/index.html/static/js/2.6f0fc72f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Portfolio_Assma/index.html/static/media/Nunito-Light.abdadce6.ttf",
+    "static/media/Banner.css": "/Portfolio_Assma/index.html/static/media/bannerResp.c69eb8bb.jpg",
+    "static/media/InfoFr.css": "/Portfolio_Assma/index.html/static/media/reseau.d06157b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c5ccf7c.js",
+    "static/css/2.cda3c33c.chunk.css",
+    "static/js/2.6f0fc72f.chunk.js",
+    "static/css/main.dc4220a0.chunk.css",
+    "static/js/main.bf1fee60.chunk.js"
+  ]
+}
